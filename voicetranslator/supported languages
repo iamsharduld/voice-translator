@@ -1,0 +1,69 @@
+print "Language Name		Code	Language Name	Language Code"
+print "Afrikaans			af		Irish			ga"
+print "Albanian				sq		Italian			it"
+print "Arabic				ar		Japanese		ja"
+print "Azerbaijani			az		Kannada			kn"
+print "Basque				eu		Korean			ko"
+print "Bengali				bn		Latin			la"
+print "Belarusian			be		Latvian			lv"
+print "Bulgarian			bg		Lithuanian		lt"
+print "Catalan				ca		Macedonian		mk"
+print "Chinese Simplified	zh-CN	Malay			ms"
+print "Chinese Traditional	zh-TW	Maltese			mt"
+print "Croatian				hr		Norwegian		no"
+print "Czech				cs		Persian			fa"
+print "Danish				da		Polish			pl"
+print "Dutch				nl		Portuguese		pt"
+print "English				en		Romanian		ro"
+print "Esperanto			eo		Russian			ru"
+print "Estonian				et		Serbian			sr"
+print "Filipino				tl		Slovak			sk"
+print "Finnish				fi		Slovenian		sl"
+print "French				fr		Spanish			es"
+print "Galician				gl		Swahili			sw"
+print "Georgian				ka		Swedish			sv"
+print "German				de		Tamil			ta"
+print "Greek				el		Telugu			te"
+print "Gujarati				gu		Thai			th"
+print "Haitian Creole		ht		Turkish			tr"
+print "Hebrew				iw		Ukrainian		uk"
+print "Hindi				hi		Urdu			ur"
+print "Hungarian			hu		Vietnamese		vi"
+print "Icelandic			is		Welsh			cy"
+print "Indonesian			id		Yiddish			yi"
+
+print "
+Language Name	Code	Language Name	Language Code
+Afrikaans	af	Irish	ga
+Albanian	sq	Italian	it
+Arabic	ar	Japanese	ja
+Azerbaijani	az	Kannada	kn
+Basque	eu	Korean	ko
+Bengali	bn	Latin	la
+Belarusian	be	Latvian	lv
+Bulgarian	bg	Lithuanian	lt
+Catalan	ca	Macedonian	mk
+Chinese Simplified	zh-CN	Malay	ms
+Chinese Traditional	zh-TW	Maltese	mt
+Croatian	hr	Norwegian	no
+Czech	cs	Persian	fa
+Danish	da	Polish	pl
+Dutch	nl	Portuguese	pt
+English	en	Romanian	ro
+Esperanto	eo	Russian	ru
+Estonian	et	Serbian	sr
+Filipino	tl	Slovak	sk
+Finnish	fi	Slovenian	sl
+French	fr	Spanish	es
+Galician	gl	Swahili	sw
+Georgian	ka	Swedish	sv
+German	de	Tamil	ta
+Greek	el	Telugu	te
+Gujarati	gu	Thai	th
+Haitian Creole	ht	Turkish	tr
+Hebrew	iw	Ukrainian	uk
+Hindi	hi	Urdu	ur
+Hungarian	hu	Vietnamese	vi
+Icelandic	is	Welsh	cy
+Indonesian	id	Yiddish	yi"
+
